@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "engines": {
-    "node": "24.x"
+    "node": "22.x"           // ← changed from 24.x to 22.x (or use 20.x)
   },
   "scripts": {
     "dev": "vite",
